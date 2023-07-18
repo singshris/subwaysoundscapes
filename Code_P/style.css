@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+button {
+  font-size: 35px;
+   text-align: center;
+  background-color: #ecceff;
+  border-style: none;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  color: #7540a5;
+  border-radius: 100%;
+/*   padding: 20px, 25px; */
+ 
+}
+
+button:hover {
+  background-color: #D88FE0;
+  color: #ecceff ;
+}
